@@ -73,7 +73,7 @@ global.owner = [
   ['6281391337455', 'Denis ! ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [Tuh owner gweh] // Want some help?
+global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
